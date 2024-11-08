@@ -1,6 +1,6 @@
 '''
 Author:Elna Ann Bittaj
-Date;8/11/2024
+Date:8/11/2024
 Description:to find largest and smallest from given list of numbers
 '''
 limit=int(input("enter the limit"))
