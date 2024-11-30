@@ -1,7 +1,7 @@
 '''author:Elna Ann Bittaj
 date:30/11/2024
 description:
-description:Write a Python function to sum all the numbers in a list'''
+description:Write a Python function to find product of all the numbers in a list'''
 def product_of_list(list):
     product=1
     for i in list:
