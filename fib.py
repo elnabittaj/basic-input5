@@ -1,4 +1,4 @@
 import fibonacci_num
-from fibonacci_num import fibonaccci_num
+from fibonacci_num import fibonacci_num
 num=int(input("Enter a number:"))
-print(fibonaccci_num(10))
+print(fibonacci_num(10))
