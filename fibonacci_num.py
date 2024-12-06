@@ -1,4 +1,4 @@
-def fibonaccci_num(num):
+def fibonacci_num(num):
     list=[]
     num1=0
     num2=1
